@@ -4,6 +4,10 @@
 
 NexVault is a simple and intuitive credential vault that allows users to save, search, view, copy, edit, and delete login credentials such as website URLs, usernames, and passwords.
 
+## 🚀 Live Demo: https://my-passwordmanager.vercel.app
+
+NexVault provides a clean, modern interface for adding, searching, viewing, copying, editing, and deleting website credentials.
+
 ---
 
 ## ✨ Features
@@ -47,6 +51,7 @@ The application provides a clean dashboard where users can add and manage their 
 │                                                      │
 │  Website    Username       ********       ✏️ 🗑️     │
 └──────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -66,7 +71,7 @@ NexVault is built using modern frontend technologies:
 
 ## 📁 Project Structure
 
-```
+```text
 nexvault/
 ├── public/
 │   ├── myicons/
@@ -92,6 +97,7 @@ nexvault/
 ├── package.json
 ├── README.md
 └── vite.config.js
+```
 
 ---
 
